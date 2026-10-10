@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://tw1pyuihjksk"]
 
 [ext_resource type="Theme" uid="uid://brfsn1sfhw4k7" path="res://assets/fonts/new_theme.tres" id="1_6d6rd"]
+[ext_resource type="Script" uid="uid://daqpvna7muwh" path="res://scripts/save.gd" id="2_3jj3l"]
 
 [sub_resource type="PlaceholderTexture2D" id="PlaceholderTexture2D_o8hdv"]
 size = Vector2(450, 150)
@@ -53,3 +54,6 @@ layout_mode = 2
 size_flags_horizontal = 9
 size_flags_vertical = 4
 texture_normal = SubResource("PlaceholderTexture2D_o8hdv")
+script = ExtResource("2_3jj3l")
+
+[connection signal="pressed" from="Control/HBoxContainer/VBoxContainer/Save" to="Control/HBoxContainer/VBoxContainer/Save" method="_on_pressed"]

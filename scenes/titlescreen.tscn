@@ -1,0 +1,55 @@
+[gd_scene format=3 uid="uid://tw1pyuihjksk"]
+
+[ext_resource type="Theme" uid="uid://brfsn1sfhw4k7" path="res://assets/fonts/new_theme.tres" id="1_6d6rd"]
+
+[sub_resource type="PlaceholderTexture2D" id="PlaceholderTexture2D_o8hdv"]
+size = Vector2(450, 150)
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_trt31"]
+
+[node name="Titlescreen" type="Node2D" unique_id=1356205235]
+
+[node name="Control" type="Control" parent="." unique_id=564016354]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 1920.0
+offset_bottom = 1080.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Control" unique_id=844047261]
+custom_minimum_size = Vector2(1920, 1080)
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Control/HBoxContainer" unique_id=1520747823]
+layout_mode = 2
+alignment = 1
+
+[node name="Label" type="Label" parent="Control/HBoxContainer/VBoxContainer" unique_id=1497311627]
+custom_minimum_size = Vector2(200, 250)
+layout_mode = 2
+size_flags_horizontal = 7
+size_flags_vertical = 0
+theme = ExtResource("1_6d6rd")
+text = "RGB RPG"
+horizontal_alignment = 1
+
+[node name="Start" type="TextureButton" parent="Control/HBoxContainer/VBoxContainer" unique_id=1760175327]
+custom_minimum_size = Vector2(450, 150)
+custom_maximum_size = Vector2(450, 150)
+layout_mode = 2
+texture_normal = SubResource("PlaceholderTexture2D_o8hdv")
+
+[node name="Panel" type="Panel" parent="Control/HBoxContainer/VBoxContainer" unique_id=1981708914]
+custom_minimum_size = Vector2(20, 20)
+layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBoxEmpty_trt31")
+
+[node name="Save" type="TextureButton" parent="Control/HBoxContainer/VBoxContainer" unique_id=61284690]
+custom_minimum_size = Vector2(450, 150)
+custom_maximum_size = Vector2(450, 150)
+layout_mode = 2
+size_flags_horizontal = 9
+size_flags_vertical = 4
+texture_normal = SubResource("PlaceholderTexture2D_o8hdv")

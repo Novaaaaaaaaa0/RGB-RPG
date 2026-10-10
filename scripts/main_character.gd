@@ -17,17 +17,17 @@ func _process(_delta):
 	if Input.is_action_pressed("moveDown"):
 		gretta_sprite.play("Front Walking")
 	else:
-		gretta_sprite.stop()
+		gretta_sprite.play("Front Standing")
 	if Input.is_action_pressed("moveUp"):
 		gretta_sprite.play("Back Walking")
 	else:
-		gretta_sprite.stop()
+		gretta_sprite.play("Back Standing")
 	if Input.is_action_pressed("moveLeft"):
 		gretta_sprite.play("Left Walking")
 	else:
-		gretta_sprite.stop()
+		gretta_sprite.play("Left Standing")
 	if Input.is_action_pressed("moveRight"):
 		gretta_sprite.play("Right Walking")
 	else:
-		gretta_sprite.stop()
+		gretta_sprite.play("Right Standing")
 		

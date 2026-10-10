@@ -23,3 +23,10 @@ texture = ExtResource("2_xhxfj")
 position = Vector2(0.5, 0)
 sprite_frames = ExtResource("3_1mvck")
 animation = &"Right Walking"
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1234509425]
+position = Vector2(-2, 1)
+zoom = Vector2(5, 5)
+process_callback = 0
+limit_smoothed = true
+position_smoothing_enabled = true

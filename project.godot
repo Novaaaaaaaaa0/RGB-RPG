@@ -22,8 +22,8 @@ UpdateSave="*uid://d4j2qpghoxjo3"
 
 [display]
 
-window/size/viewport_width=640
-window/size/viewport_height=480
+window/size/viewport_width=740
+window/size/viewport_height=580
 window/stretch/mode="viewport"
 
 [editor_plugins]

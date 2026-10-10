@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="RGB RPG"
-run/main_scene="uid://diraookqe1x6r"
+run/main_scene="uid://uwbs0tgmiuru"
 config/features=PackedStringArray("4.7", "Mobile")
 config/icon="res://icon.svg"
 

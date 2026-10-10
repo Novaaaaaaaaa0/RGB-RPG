@@ -1,3 +1,11 @@
 [gd_scene format=3 uid="uid://c6mr7rd8803uc"]
 
-[node name="Puzzle1" type="Node2D" unique_id=1202338421]
+[ext_resource type="PackedScene" uid="uid://wr1deivfc0wv" path="res://assets/mainCharacter.tscn" id="1_lnpif"]
+[ext_resource type="TileSet" uid="uid://bgorcl8vwoei1" path="res://assets/tilesets/tilesets/MainTileSet.tres" id="2_efcmd"]
+
+[node name="Puzzles" type="Node2D" unique_id=378654457]
+
+[node name="mainCharacter" parent="." unique_id=1622110444 instance=ExtResource("1_lnpif")]
+
+[node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=144632448]
+tile_set = ExtResource("2_efcmd")

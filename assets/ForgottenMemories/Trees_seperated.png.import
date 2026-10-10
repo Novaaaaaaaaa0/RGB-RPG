@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c2mkkiki8pfse"
-path="res://.godot/imported/rock_in_water_01.png-ad4fc5b77216456ff91494e0db5b18a4.ctex"
+uid="uid://c66wpohn280wa"
+path="res://.godot/imported/Trees_seperated.png-f5fc30f8d2e453adb047f479a9fc4153.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/mystic_woods_free_2.2/sprites/objects/rock_in_water_01.png"
-dest_files=["res://.godot/imported/rock_in_water_01.png-ad4fc5b77216456ff91494e0db5b18a4.ctex"]
+source_file="res://assets/ForgottenMemories/Trees_seperated.png"
+dest_files=["res://.godot/imported/Trees_seperated.png-f5fc30f8d2e453adb047f479a9fc4153.ctex"]
 
 [params]
 

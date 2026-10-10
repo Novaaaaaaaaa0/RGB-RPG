@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://df8niwisf3de0"
-path="res://.godot/imported/objects.png-f94fc0850b2503bee73eac3016482c5f.ctex"
+uid="uid://dw7il3smhwths"
+path="res://.godot/imported/Props.png-1407b3c183d112320a3f2500b07fddf1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/mystic_woods_free_2.2/sprites/objects/objects.png"
-dest_files=["res://.godot/imported/objects.png-f94fc0850b2503bee73eac3016482c5f.ctex"]
+source_file="res://assets/ForgottenMemories/Props.png"
+dest_files=["res://.godot/imported/Props.png-1407b3c183d112320a3f2500b07fddf1.ctex"]
 
 [params]
 

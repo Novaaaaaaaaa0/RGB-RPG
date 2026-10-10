@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bktl3g7tmvkqh"
-path="res://.godot/imported/fences.png-56f60229f92db3439e4d7d59c612e398.ctex"
+uid="uid://c3dcuvfqw65sg"
+path="res://.godot/imported/WaterTiles-6frames.png-381a4571a65088b220e4eec4fcc981d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/mystic_woods_free_2.2/sprites/tilesets/fences.png"
-dest_files=["res://.godot/imported/fences.png-56f60229f92db3439e4d7d59c612e398.ctex"]
+source_file="res://assets/ForgottenMemories/WaterTiles-6frames.png"
+dest_files=["res://.godot/imported/WaterTiles-6frames.png-381a4571a65088b220e4eec4fcc981d2.ctex"]
 
 [params]
 

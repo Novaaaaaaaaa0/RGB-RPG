@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cshauyi85hb75"
-path="res://.godot/imported/rock_in_water-sheet.png-0907722877afb59b4a76f3a8f8b6d6d7.ctex"
+uid="uid://dkdykdtla2fam"
+path="res://.godot/imported/RBG RPG Gretta.png-117988e7114a99db3cad63e0f0edaec6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/mystic_woods_free_2.2/sprites/objects/rock_in_water-sheet.png"
-dest_files=["res://.godot/imported/rock_in_water-sheet.png-0907722877afb59b4a76f3a8f8b6d6d7.ctex"]
+source_file="res://RBG RPG Gretta.png"
+dest_files=["res://.godot/imported/RBG RPG Gretta.png-117988e7114a99db3cad63e0f0edaec6.ctex"]
 
 [params]
 

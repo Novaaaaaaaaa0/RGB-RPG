@@ -13,8 +13,6 @@ func _physics_process(_delta: float) -> void:
 
 
 # Most Inefficient animation code in the world
-
-
 func _process(_delta):
 	if Input.is_action_pressed("moveDown"):
 		gretta_sprite.play("Front Walking")

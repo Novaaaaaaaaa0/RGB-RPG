@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://q41geybt2obk"
-path="res://.godot/imported/Gretta Sprite Sheet.png-746edc476937a47a591ee6c77bf6c9ac.ctex"
+uid="uid://0h3dsc3v7ab1"
+path="res://.godot/imported/Gretta sprite sheet 2.0.png-dd5fc96c89508326b8d9fdf61768e8ab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Gretta Sprites/Gretta Sprite Sheet.png"
-dest_files=["res://.godot/imported/Gretta Sprite Sheet.png-746edc476937a47a591ee6c77bf6c9ac.ctex"]
+source_file="res://assets/Gretta Sprites/Gretta sprite sheet 2.0.png"
+dest_files=["res://.godot/imported/Gretta sprite sheet 2.0.png-dd5fc96c89508326b8d9fdf61768e8ab.ctex"]
 
 [params]
 
